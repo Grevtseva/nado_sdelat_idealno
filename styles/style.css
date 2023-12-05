@@ -29,7 +29,7 @@ body {
 }
 
 .page {
-  position: relative; 
+  position: relative;
   height: inherit;
   display: grid;
   justify-items: center;
