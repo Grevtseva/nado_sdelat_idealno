@@ -33,7 +33,6 @@ body {
   height: inherit;
   display: grid;
   justify-items: center;
-  min-height: 800px;
   font-family: 'Raleway', sans-serif;
 }
 
