@@ -54,6 +54,7 @@ video {
   position: absolute;
   top: 0;
   left: 0;
+  inset: 0;
 }
 
 .heading {
@@ -69,7 +70,7 @@ video {
   letter-spacing: 4.06px;
   text-transform: uppercase;
   padding-top: 60px;
-  width: 739px;
+  max-width: 739px;
 }
 
 .heading::after {
